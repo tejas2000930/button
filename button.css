@@ -1,15 +1,28 @@
+
+
 body {
     margin: 0;
     padding: 0;
-    height: 710px;
-    width: 1525px; 
+    height: 930px;
+    width: 1880px; 
     text-align: center;
     justify-content: center;
     align-items: center;
     background-color: #2c2e36;
     display: flex;
 }
-
+.boy{
+    margin: 10px;
+    height: 250px;
+    width: 600px;
+    padding: 7%;
+    text-align: center;
+    border: 5px solid #2f80ed; 
+    float: right;
+    font-size: 40px;
+    background-color: aquamarine;
+    
+}
 .button-hover{
     position: relative;
     min-width: 230px;
